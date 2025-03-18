@@ -1,6 +1,6 @@
 ## Hi, Call me Ouss 👋
 
-I'm a **Senior Backend Engineer** with **8+ years of experience** in designing **scalable, high-performance systems**.  
+I'm a **Software Engineer** with **8+ years of experience** in designing **scalable, high-performance systems**.  
 Passionate about **optimization, maintainability**, and **delivering smooth user experiences**.
 
 ### 🚀 About Me
