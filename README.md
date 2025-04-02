@@ -1,4 +1,4 @@
-## Hi, Call me Ouss 👋
+## Hi, I'm Oussama. Nice to see you 👋
 
 I'm a **Software Engineer** with **8+ years of experience** in designing **scalable, high-performance systems**.  
 Passionate about **optimization, maintainability**, and **delivering smooth user experiences**.
