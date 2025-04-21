@@ -3,7 +3,7 @@
 I'm a **Software Engineer** with **8+ years of experience** in designing **scalable, high-performance systems**.  
 Passionate about **optimization, maintainability**, and **delivering smooth user experiences**.
 
-### 🚀 About Me
+### About Me
 
 - Currently working on **high traffic low latency backend systems**
 - Exploring **distributed systems, performance optimizations, and concurency**
