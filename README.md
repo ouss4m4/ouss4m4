@@ -5,10 +5,10 @@ Passionate about **optimization, maintainability**, and **delivering smooth user
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **high traffic low latency backend systems**
-- 🌱 Exploring **distributed systems, performance optimizations, and concurency**
-- 💡 Built **real-time engines, distributed systems, and financial reconciliation services**
-- 🎯 Strong expertise in **system design, high availability, and data integrity**
+- Currently working on **high traffic low latency backend systems**
+- Exploring **distributed systems, performance optimizations, and concurency**
+- Built **real-time engines, distributed systems, and financial reconciliation services**
+- Strong expertise in **system design, high availability, and data integrity**
 
 For more details and experience, Check out [my resume](https://drive.google.com/file/d/17Q3PA3nGF10A66F4PlB1cqKuB4290ukM/view)
 
