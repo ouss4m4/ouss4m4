@@ -10,7 +10,8 @@ Passionate about **optimization, maintainability**, and **delivering smooth user
 - Built **real-time engines, distributed systems, and financial reconciliation services**
 - Strong expertise in **system design, high availability, and data integrity**
 
-For more details and experience, Check out [my resume](https://drive.google.com/file/d/17Q3PA3nGF10A66F4PlB1cqKuB4290ukM/view)
+For more details and experience, Check out [my resume](https://drive.google.com/file/d/1kuvpoJ_5ov71I1K6XcEyjTLukuvOQx9w/view)
+
 
 ---
 
